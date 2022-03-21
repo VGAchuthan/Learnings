@@ -1,0 +1,2 @@
+I used  Compound view to show title and content of notes in Noted Details Activity.
+In NotedDetails Activity , setting the notes title and content using function setTitleAndContnet() of TitleAndContentView in on create().
